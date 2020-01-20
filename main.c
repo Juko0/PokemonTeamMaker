@@ -74,7 +74,7 @@ int main () {
 
         char linea[1024];
 
-        while (fgets (linea, 1023, archivo) != NULL){      //crea los pokemon desde el archivo .csv y los añade al mapa pokemon y a la lista pokemon
+        while (fgets (linea, 1023, archivo) != NULL){      //crea los pokemon desde el archivo .csv y los aÃ±ade al mapa pokemon y a la lista pokemon
                 char *nombre = get_csv_field(linea, 1);
                 char *tipo = get_csv_field(linea, 2);
                 char *tipo2 = get_csv_field(linea, 3);
@@ -103,7 +103,7 @@ int main () {
 
             char linea[1024];
 
-            while (fgets (linea, 1023, archivo_tipo) != NULL){  //crea los tipos desde el archivo .csv y los añade al mapa tipo
+            while (fgets (linea, 1023, archivo_tipo) != NULL){  //crea los tipos desde el archivo .csv y los aÃ±ade al mapa tipo
                     char *tipo = get_csv_field(linea, 1);
                     char *debilidad1 = get_csv_field(linea, 2);
                     char *debilidad2 = get_csv_field(linea, 3);
@@ -220,7 +220,7 @@ int main () {
 
                                                 char linea[1024];
 
-                                                while (fgets (linea, 1023, archivo) != NULL){      //crea los pokemon desde el archivo .csv y los añade a la lista
+                                                while (fgets (linea, 1023, archivo) != NULL){      //crea los pokemon desde el archivo .csv y los aÃ±ade a la lista
                                                         char *nombre = get_csv_field(linea, 1);
                                                         char *tipo = get_csv_field(linea, 2);
                                                         char *tipo2 = get_csv_field(linea, 3);
@@ -289,7 +289,7 @@ int main () {
 
                                                 char linea[1024];
 
-                                                while (fgets (linea, 1023, archivo) != NULL){     //crea los pokemon desde el archivo .csv y los añade a la lista
+                                                while (fgets (linea, 1023, archivo) != NULL){     //crea los pokemon desde el archivo .csv y los aÃ±ade a la lista
                                                         char *nombre = get_csv_field(linea, 1);
                                                         char *tipo = get_csv_field(linea, 2);
                                                         char *tipo2 = get_csv_field(linea, 3);
@@ -357,7 +357,7 @@ int main () {
 
                                                 char linea[1024];
 
-                                                while (fgets (linea, 1023, archivo) != NULL){      //crea los pokemon desde el archivo .csv y los añade a la lista
+                                                while (fgets (linea, 1023, archivo) != NULL){      //crea los pokemon desde el archivo .csv y los aÃ±ade a la lista
                                                         char *nombre = get_csv_field(linea, 1);
                                                         char *tipo = get_csv_field(linea, 2);
                                                         char *tipo2 = get_csv_field(linea, 3);
@@ -423,7 +423,7 @@ int main () {
 
                                                 char linea[1024];
 
-                                                while (fgets (linea, 1023, archivo) != NULL){      //crea los pokemon desde el archivo .csv y los añade a la lista
+                                                while (fgets (linea, 1023, archivo) != NULL){      //crea los pokemon desde el archivo .csv y los aÃ±ade a la lista
                                                         char *nombre = get_csv_field(linea, 1);
                                                         char *tipo = get_csv_field(linea, 2);
                                                         char *tipo2 = get_csv_field(linea, 3);
@@ -489,7 +489,7 @@ int main () {
 
                                                 char linea[1024];
 
-                                                while (fgets (linea, 1023, archivo) != NULL){      //crea los pokemon desde el archivo .csv y los añade a la lista
+                                                while (fgets (linea, 1023, archivo) != NULL){      //crea los pokemon desde el archivo .csv y los aÃ±ade a la lista
                                                         char *nombre = get_csv_field(linea, 1);
                                                         char *tipo = get_csv_field(linea, 2);
                                                         char *tipo2 = get_csv_field(linea, 3);
@@ -555,7 +555,7 @@ int main () {
 
                                                 char linea[1024];
 
-                                                while (fgets (linea, 1023, archivo) != NULL){      //crea los pokemon desde el archivo .csv y los añade al mapa pokemon y a la lista pokemon
+                                                while (fgets (linea, 1023, archivo) != NULL){      //crea los pokemon desde el archivo .csv y los aÃ±ade al mapa pokemon y a la lista pokemon
                                                         char *nombre = get_csv_field(linea, 1);
                                                         char *tipo = get_csv_field(linea, 2);
                                                         char *tipo2 = get_csv_field(linea, 3);
@@ -732,7 +732,7 @@ int main () {
         }
         system("pause");
         system("cls");
-    }while(menu_opcion != 5);
+    }while(menu_opcion != 6);
 
     return 0;
 }
