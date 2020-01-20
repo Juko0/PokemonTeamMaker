@@ -1,1 +1,35 @@
+Nombre: Venusaur
+Tipo: Planta  Tipo 2: Veneno 
+Stats:  
+HP: 80    ATK: 82    DEF: 83   ATKSP: 100  DEFSP: 100  VEL: 80 
+
+Nombre: Dewgong
+Tipo: Agua  Tipo 2: Hielo 
+Stats:  
+HP: 90    ATK: 70    DEF: 80   ATKSP: 70  DEFSP: 95  VEL: 70 
+
+Nombre: Articuno
+Tipo: Hielo  Tipo 2: Volador 
+Stats:  
+HP: 90    ATK: 85    DEF: 100   ATKSP: 95  DEFSP: 125  VEL: 85 
+
+Nombre: Lapras
+Tipo: Agua  Tipo 2: Hielo 
+Stats:  
+HP: 130    ATK: 85    DEF: 80   ATKSP: 85  DEFSP: 95  VEL: 60 
+
+Nombre: Lapras
+Tipo: Agua  Tipo 2: Hielo 
+Stats:  
+HP: 130    ATK: 85    DEF: 80   ATKSP: 85  DEFSP: 95  VEL: 60 
+
+Nombre: Lapras
+Tipo: Agua  Tipo 2: Hielo 
+Stats:  
+HP: 130    ATK: 85    DEF: 80   ATKSP: 85  DEFSP: 95  VEL: 60 
+
+Nombre: Lapras
+Tipo: Agua  Tipo 2: Hielo 
+Stats:  
+HP: 130    ATK: 85    DEF: 80   ATKSP: 85  DEFSP: 95  VEL: 60 
 
